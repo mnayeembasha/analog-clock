@@ -13,7 +13,7 @@ setInterval(() => {
     let minuteHand = document.getElementById("minute");
     let secondHand = document.getElementById("second");
 
-
+    
     hourHand.style.transform = `rotate(${hourHandRotation}deg)`;
     minuteHand.style.transform = `rotate(${minuteHandRotation}deg)`;
     secondHand.style.transform = `rotate(${secondHandRotation}deg)`;

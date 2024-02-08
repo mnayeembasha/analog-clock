@@ -14,10 +14,10 @@ body{
 #clockContainer{
     /* background-color: red;
     border: 2px solid red; */
-    width: 40vw;
-    height:40vw;
     /* width:400px;
     height:400px; */
+    width: 40vw;
+    height:40vw;
     background: url(clock_roman.png) no-repeat;
     background-size: 100%;
     position: relative;
